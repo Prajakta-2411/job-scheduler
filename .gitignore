@@ -1,0 +1,32 @@
+# Python bytecode (automatically generated cache)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments (local dependencies)
+venv/
+.venv/
+env/
+.env/
+
+# Local environment variables / secrets
+.env
+.env.local
+
+# Testing and coverage tools
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Distribution and packaging (if you build your code)
+build/
+dist/
+*.egg-info/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore the interview guide file
+INTERVIEW_GUIDE.md
